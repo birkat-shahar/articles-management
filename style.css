@@ -1,0 +1,42 @@
+
+body{
+  background-color: rgba(250, 247, 242, 0.8);
+  overflow: hidden;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1030;
+}
+
+.logo-icon
+{
+  background-color: #E6C558;
+}
+
+.container-fluid
+{
+  padding-top: 100px;
+}
+
+.sidebar-fixed-right {
+  overflow-y: auto;
+}
+
+.main-content-scroll-area {
+  height: calc(100vh - 80px);
+  overflow-y: auto;
+}
+
+.btn-view-page {
+    background-color: rgba(250, 247, 242, 0.8);
+    border-color: #E6C558;
+    color: black;
+    &:hover {
+      background-color:  #E6C558;
+      border-color: #E6C558;
+    }
+}
