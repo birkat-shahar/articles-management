@@ -1,22 +1,9 @@
 const topics = [
   {
-    id: "halacha",
-    name: "הלכה",
+    id: "Hagim",
+    name: "חגים",
     subtopics: [
-      { id: "shabbat", name: "שבת" },
-      { id: "kashrut", name: "כשרות" }
+      { id: "HageyTishey", name: "חגי תשרי" },
     ]
-  },
-  {
-    id: "emunah",
-    name: "אמונה",
-    subtopics: [
-      { id: "tefila", name: "תפילה" }
-    ]
-  },
-  {
-    id: "family",
-    name: "משפחה",
-    subtopics: []
   }
 ];
