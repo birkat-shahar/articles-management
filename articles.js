@@ -1,59 +1,23 @@
 const articles = [
   {
-    title: "כותרת מאמר 1",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "halacha",
-    subcategory: "shabbat"
-  },
-    {
-    title: "כותרת מאמר 2",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "halacha",
-    subcategory: "kashrut"
-  },
-    {
-    title: "3",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "emunah",
-    subcategory: "tefila"
-  },
-    {
-    title: "כותרת מאמר 4",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "emunah",
-    subcategory: "tefila"
-  },
-    {
-    title: "כותרת מאמר 5",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "family",
-    subcategory: "-"
+    title: "בדרך נעלמת",
+    subject:"",
+    url: "https://docs.google.com/document/d/1CNY2ZZY5zQ6PIVpzf_hZM_83vY3QFhVv/edit?usp=sharing&ouid=102481696682018838655&rtpof=true&sd=true",
+    category: "Hagim",
+    subcategory: "HageyTishey"
   },
   {
-    title: "כותרת מאמר 6",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "halacha",
-    subcategory: "shabbat"
+    title: "וגם להשיב",
+    subject:"",
+    url: "https://docs.google.com/document/d/1zROjkUw1lcDr1ETM846rSqdttBZE86nc/edit?usp=drive_link&ouid=102481696682018838655&rtpof=true&sd=true",
+    category: "Hagim",
+    subcategory: "HageyTishey"
   },
-    {
-    title: "כותרת מאמר 7",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "halacha",
-    subcategory: "kashrut"
-  },
-    {
-    title: "כותרת מאמר 8",
-    subject:"תאור מאד מאד מעניין שמספר מה כתוב בדף שייפתח במקרה ואלחץ על הכפתור הייעודי",
-    url: "https://drive.google.com/file/d/1G8945vYsYxhcMT1510dCy5pVKdd39DDh/view?usp=sharing",
-    category: "emunah",
-    subcategory: "tefila"
+  {
+    title: "חג הסוכות",
+    subject:"",
+    url: "https://docs.google.com/document/d/1jUUzTxKkoA_P0e5wWAfvUpHtgCj2ZwHs/edit?usp=drive_link&ouid=102481696682018838655&rtpof=true&sd=true",
+    category: "Hagim",
+    subcategory: "HageyTishey"
   }
-  
 ];
