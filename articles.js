@@ -2,22 +2,23 @@ const articles = [
   {
     title: "בדרך נעלמת",
     subject:"",
-    url: "https://docs.google.com/document/d/1CNY2ZZY5zQ6PIVpzf_hZM_83vY3QFhVv/edit?usp=sharing&ouid=102481696682018838655&rtpof=true&sd=true",
+    url: "https://drive.google.com/file/d/12T0DvpTfy39f-w5oiFdo3T-1h_habeo4/view?usp=sharing",
     category: "Hagim",
     subcategory: "HageyTishey"
   },
   {
     title: "וגם להשיב",
     subject:"",
-    url: "https://docs.google.com/document/d/1zROjkUw1lcDr1ETM846rSqdttBZE86nc/edit?usp=drive_link&ouid=102481696682018838655&rtpof=true&sd=true",
+    url: "https://drive.google.com/file/d/1XCAuuA2FhiYTM8M_qMcVcC29WFWIx68Q/view?usp=drive_link",
     category: "Hagim",
     subcategory: "HageyTishey"
   },
   {
     title: "חג הסוכות",
     subject:"",
-    url: "https://docs.google.com/document/d/1jUUzTxKkoA_P0e5wWAfvUpHtgCj2ZwHs/edit?usp=drive_link&ouid=102481696682018838655&rtpof=true&sd=true",
+    url: "https://drive.google.com/file/d/127ubjCpwgcQu2rFWULIOuC0YYDUp9xmz/view?usp=drive_link",
     category: "Hagim",
     subcategory: "HageyTishey"
   }
 ];
+
